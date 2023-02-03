@@ -1,0 +1,67 @@
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\webServer_full.exe.config
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\webServer_full.exe
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\webServer_full.pdb
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Buffers.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Memory.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Json.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.ValueTuple.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Buffers.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Memory.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Json.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.ValueTuple.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.AssemblyReference.cache
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.frmHome.resources
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.Properties.Resources.resources
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.GenerateResource.cache
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.CoreCompileInputs.cache
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.CopyComplete
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.exe
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.pdb
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.AssemblyReference.cache
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.SuggestedBindingRedirects.cache
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.frmHome.resources
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.Properties.Resources.resources
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.GenerateResource.cache
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.CoreCompileInputs.cache
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.exe
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.pdb
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\webServer_full.exe.config
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\webServer_full.exe
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\webServer_full.pdb
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Buffers.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Memory.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Net.Http.Json.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Json.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.ValueTuple.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Buffers.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Memory.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Net.Http.Json.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Text.Json.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\System.ValueTuple.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\obj\Debug\webServer_full.csproj.CopyComplete
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\System.Net.Http.Json.xml
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Davide CRJ\Desktop\webServer_full\webServer_full\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pezzotta.18163\Desktop\webServer_full\webServer_full\bin\Debug\Newtonsoft.Json.xml
