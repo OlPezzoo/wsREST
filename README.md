@@ -1,2 +1,2 @@
 # wsREST
-C#: connessione tra un client e un web service
+C#: connection between a client and a web service
